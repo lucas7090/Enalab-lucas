@@ -7,7 +7,7 @@
  ## cidade 
  ### Algodão de jandaíra (pb)
  #
- ## Ocupações 
+ ## ocupações
  ### Estudante de Escola de ensino medío no segundo ano
  ### Estudante de progamação 
  
