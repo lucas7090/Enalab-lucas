@@ -8,8 +8,8 @@
  ## City 
  ### Algodão de jandaira,Paraiíba,Brazil
 #
-
-## Current Activities
+## Current Activities:
+#
 ### High school student (second year)
 ### Programming student
 
