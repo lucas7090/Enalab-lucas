@@ -5,7 +5,7 @@
  ### Lucas Emanuel da Silva Guedes
  ## age 
  ### 15 years old
- ## City 
+ ## Location
  ### Algodão de jandaira,Paraiíba,Brazil
 #
 ## Current Activities:
