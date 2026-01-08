@@ -1,13 +1,12 @@
- # **autor**
- #
- ## Nome 
+ # **Author**
+
+ ## Name 
  ### Lucas Emanuel da Silva Guedes
- ## Idade
- ### 15 anos 
- ## cidade 
- ### Algodão de jandaíra (pb)
- #
- ## ocupações
- ### Estudante de Escola de ensino medío no segundo ano
- ### Estudante de progamação 
+ ## age 
+ ### 15 years old
+ ## City 
+ ### Algodão de jandaira,Paraiíba,Brazil 
+ ## Current Activities 
+ ### High school student (second year)
+ ### Programming student
  
